@@ -1,4 +1,4 @@
-#  It demonstrates Python execution ,reading the CSV data.
+#  It demonstrates Python execution , variables, calculations and reading the CSV data.
 The main program is contained in:
 proof_of_life.ipynb
 The notebook performs the following tasks:
